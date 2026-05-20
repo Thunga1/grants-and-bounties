@@ -3,6 +3,12 @@
 </a>
 </br></br>
 
+⚠️ Program Status
+
+The Grants & Bounties program is currently paused.
+
+New submissions and applications are temporarily not being accepted while the program structure and priorities are being reviewed.
+
 ## **Bounties program**
 
 Our Bounties program is an open community initiative that is fast-forwarding support for valuable contributions:
